@@ -64,6 +64,8 @@ flutter:
     - assets/wp1.webp
     - assets/logo.jpg
     - assets/mount-fuji-sunrise-5k-zp.jpg
+    - assets/me.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
